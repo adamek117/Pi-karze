@@ -1,0 +1,42 @@
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csprojAssemblyReference.cache
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\MainWindow.g.cs
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\App.g.cs
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1_MarkupCompile.cache
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1_MarkupCompile.lref
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\Piłkarze1.exe.config
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\Piłkarze1.exe
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\Piłkarze1.pdb
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\MainWindow.baml
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.g.resources
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.Properties.Resources.resources
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csproj.GenerateResource.cache
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csproj.CoreCompileInputs.cache
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.exe
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.pdb
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Kontrolka.g.cs
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Kontrolka.baml
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Studia\Rok 2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csproj.CopyComplete
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\Piłkarze1.exe.config
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\Piłkarze1.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\Piłkarze1.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\DevExpress.Data.v21.2.dll
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\bin\Debug\DevExpress.Data.v21.2.xml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csprojAssemblyReference.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Kontrolka.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\MainWindow.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\App.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1_MarkupCompile.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1_MarkupCompile.lref
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Kontrolka.baml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\MainWindow.baml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.g.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.Properties.Resources.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csproj.GenerateResource.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csproj.CoreCompileInputs.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.csproj.CopyComplete
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Piłkarze1\Piłkarze1\obj\Debug\Piłkarze1.pdb

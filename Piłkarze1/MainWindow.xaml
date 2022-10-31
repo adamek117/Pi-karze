@@ -1,0 +1,82 @@
+﻿<Window x:Class="Piłkarze1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Piłkarze1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="1000">
+    <Window.Resources>
+
+        <Style TargetType="Button">
+            <Setter Property="Background" Value= "LightGray"/>
+            <Setter Property="BorderBrush" Value="Black"/>
+            <Setter Property="BorderThickness" Value=" 2,2,2,2"/>
+            <Setter Property="Margin" Value="3" />
+            <Setter Property="FontSize" Value="20" />
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property ="FontWeight" Value="Bold"/>
+            <Setter Property="Margin" Value="8" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="2,2,2,2"/>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="BorderThickness" Value="2,2,2,2"/>
+            <Setter Property="Margin" Value="13" />
+            <Setter Property="FontSize" Value="20"/>
+        </Style>
+
+       <Style TargetType="Border">
+            <Setter Property="BorderBrush" Value="Gray" />
+            <Setter Property="BorderThickness" Value="2,2,2,2" />
+        </Style> 
+
+    </Window.Resources>
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="66*"/>
+            <ColumnDefinition Width="66*"/>
+            <ColumnDefinition Width="120*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="8*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Column="0" Background="LightYellow">
+            <Label  Content="Imię"/>
+            <Label Content="Nazwisko"/>
+            <Label Content="Wzrost[cm]"/>
+            <Label  Content="Waga[kg]"/>
+            <Label  Content="Pozycja"/>
+        </StackPanel>
+        <StackPanel Grid.Column="1"  Background="LightYellow">
+            <local:Kontrolka x:Name="Pole_imie"/>
+            <local:Kontrolka x:Name="Pole_nazwisko"/>
+            <local:Kontrolka x:Name="Pole_wzrost" />
+            <local:Kontrolka x:Name="Pole_waga" />
+            <ComboBox x:Name ="Pozycje" Background="Gray" FontSize="20" Margin="10">
+                <ComboBoxItem x:Name="Bramkarz" Content="Bramkarz"/>
+                <ComboBoxItem x:Name="Obrońca" Content="Obrońca" />
+                <ComboBoxItem x:Name="Pomocnik" Content="Pomocnik" />
+                <ComboBoxItem x:Name="Napastnik" Content="Napastnik" />
+            </ComboBox>
+        </StackPanel>
+        <StackPanel Grid.Column="0" Grid.Row="1" Background="LightYellow">
+            <Button Content = "Modyfikacja" Click="Modyfikacja_Click"/>
+            <Button Content =" Usuń" Click="Usuń_Click" />
+        </StackPanel>
+        <StackPanel Grid.Column="1" Grid.Row="1" Background="LightYellow">
+            <Button Content = "Dodaj" Height="73" Click="Dodaj_Click"/>
+        </StackPanel>
+        <ListBox x:Name="listBoxPilkarze" Grid.Column="3" Grid.Row="0" Grid.RowSpan="2" Margin="5" Grid.ColumnSpan="2" FontSize="16" SelectionChanged="listBoxPilkarze_Wybor" />
+    </Grid>
+</Window>
